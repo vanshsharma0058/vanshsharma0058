@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year B.Tech student with strong foundations in Python, JavaScript, React.js, Data Structures Algorithms <br>(DSA),SQL and Tailwind CSS seeking an opportunity to contribute to technology-driven and scalable solutions. <br>Experienced in Web Development, Problem Solving, Git, GitHub, and AI-powered development tools, with a <br>focus on clean, efficient, and maintainable code. A motivated team player with leadership qualities, eager to <br>learn, adapt, collaborate, and deliver high-impact results in a fast-paced professional environment.
+Final-year B.Tech student with strong foundations in Python, JavaScript, React.js, Data Structures Algorithms (DSA),SQL and Tailwind CSS seeking an opportunity to contribute to technology-driven and scalable solutions. Experienced in Web Development, Problem Solving, Git, GitHub, and AI-powered development tools, with a focus on clean, efficient, and maintainable code. A motivated team player with leadership qualities, eager to <br>learn, adapt, collaborate, and deliver high-impact results in a fast-paced professional environment.
 
 
 ## 🌐 Socials:
